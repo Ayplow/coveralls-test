@@ -18,9 +18,8 @@
   },
   "homepage": "https://github.com/TomSputz/coveralls-test#readme",
   "devDependencies": {
-    "ava": "1.0.0-beta.8"
+    "ava": "1.0.0-beta.8",
+    "nyc": "^13.1.0",
+    "coveralls": "^3.0.2"
   },
-  "dependencies": {
-    "nyc": "^13.1.0"
-  }
 }
